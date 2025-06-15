@@ -1,7 +1,7 @@
 I am a Microsoft Certified ASP.NET Core & C# Developer with a strong background in web development and software architecture. 
 I have experience in building scalable applications and specialize in designing robust, high-performance solutions using a wide range of modern technologies.
 
-💡 Technical Expertise:
+💡 **Technical Expertise:**
 
 ✅ Backend: ASP.NET Core, C#, CQRS, Web API, MSSQL Server
 
